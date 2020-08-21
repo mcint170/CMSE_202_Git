@@ -21,4 +21,6 @@ If the linked repository is to be moved to CMSE github account *IT MUST BE FORKE
         * Fix the file to be correct Day number<mark/>
     * Thinds to be done list removed from the top of the file
 
+NOTE: That the CMSE202_Git_Started repository also needs it's files to be updated with the appropiate day numbers
+
 If you have any questions please contact mcint170@msu.edu
